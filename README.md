@@ -6,8 +6,8 @@ This repository serves to transparently index and document the programming, poli
 
 ## Contents
 
-- **[Policies and Documentation](https://github.com/thewpcommunitycollective/policies)**  
-  Governance policies adopted by The WP Community Collective
+- **[Policies](https://github.com/thewpcommunitycollective/policies)**  - Governance policies formally adopted by The WP Community Collective
+- **[Practices](https://github.com/thewpcommunitycollective/policies)**  - Operational practices used by The WP Community Collective
 
 - **Active Programming**
   - **[Projects](https://github.com/thewpcommunitycollective/projects)** — Active WPCC-supported projects
